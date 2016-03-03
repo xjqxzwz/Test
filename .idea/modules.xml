@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ListCache/ListCache.iml" filepath="$PROJECT_DIR$/ListCache/ListCache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyApplication.iml" filepath="$PROJECT_DIR$/MyApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/refreshlist/refreshlist.iml" filepath="$PROJECT_DIR$/refreshlist/refreshlist.iml" />
+    </modules>
+  </component>
+</project>
